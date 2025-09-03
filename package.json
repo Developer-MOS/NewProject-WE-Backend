@@ -19,7 +19,8 @@
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "express-rate-limit": "^8.0.1",
-    "googleapis": "^159.0.0"
+    "googleapis": "^159.0.0",
+    "js-base64": "^3.7.8"
   },
   "type": "module",
   "devDependencies": {
